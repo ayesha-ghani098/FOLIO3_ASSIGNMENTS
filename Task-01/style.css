@@ -1,0 +1,38 @@
+.menu-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cards-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu-card {
+  background-color: #999999;
+  width: 420px;
+  border: 2px solid black;
+}
+.right {
+  display: flex;
+  justify-content: flex-end;
+}
+span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+}
+p {
+  padding: 0px 10px;
+}
+.pink {
+  background-color: #e29595;
+}
+.yellow {
+  background-color: #ebd098;
+}
+.red {
+  background-color: #d53a38;
+  color: #fff;
+}
