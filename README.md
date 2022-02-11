@@ -6,8 +6,8 @@
 Task-02 is about to explore html tags. I have considered the idea of a static news blog through which i could explore more html tags like video, image links etc.
 
 ### Previous Work using HTML/CSS
-[HTML Student Registration Form](https://form-assignment-7705f.web.app/)
-[Ecommerce Website Design](https://eccommerce-html-css.web.app/)
-[Saylani Website Design](https://saylani-webdesign.web.app/)
-[Artist Portfolio Design](https://artist-web-design.web.app/)
-[Web Design](https://web-design-5c8d7.web.app/)
+## [HTML Student Registration Form](https://form-assignment-7705f.web.app/)
+## [Ecommerce Website Design](https://eccommerce-html-css.web.app/)
+## [Saylani Website Design](https://saylani-webdesign.web.app/)
+## [Artist Portfolio Design](https://artist-web-design.web.app/)
+## [Web Design](https://web-design-5c8d7.web.app/)
