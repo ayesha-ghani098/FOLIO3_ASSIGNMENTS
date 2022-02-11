@@ -36,6 +36,15 @@ body {
   padding-left: 10px;
 }
 
+/* ---Footer---- */
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  background-color: rgb(64, 64, 163);
+  color: #fff;
+}
+
 /* ---Section One---- */
 
 .section-one div {
