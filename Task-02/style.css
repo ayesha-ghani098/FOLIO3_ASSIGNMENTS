@@ -88,6 +88,22 @@ section p {
 .section-four {
   margin-top: 370px;
 }
+/* ---Feedback Form---- */
+.feedback-form{
+  padding: 70px 0;
+  display: flex;
+  justify-content: center;
+  font-size: 17px;
+}
+.feedback-form button{
+  float: right;
+  background-color: black;
+  color: #fff;
+  padding: 10px 30px;
+  border: none;
+}
+
+
 
 /*--- All  ---- */
 .blue {
@@ -110,3 +126,17 @@ img {
   margin: 10px;
   border: 2px solid black;
 }
+input{
+  margin-left: 20px;
+}
+input,textarea{
+  width: 600px;
+  padding: 5px;
+  border: 1px solid black;
+
+
+}
+textarea{
+  width: 98.5%;
+}
+
