@@ -15,5 +15,5 @@ A senior year student, A tech enthusiast and  smart working individual who loves
 ## ⚡ Languages and Tools
  [![Generic badge](https://img.shields.io/badge/HTML-Red.svg)]() [![Generic badge](https://img.shields.io/badge/CSS-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Bootstrap-Purple.svg)]() [![Generic badge](https://img.shields.io/badge/JavaScript-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Firebase-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Java-Purple.svg)]() [![Generic badge](https://img.shields.io/badge/JavaFx-Basics-Purple.svg)]() [![Generic badge](https://img.shields.io/badge/React-Green.svg)]() [![Generic badge](https://img.shields.io/badge/Reactnative-Blue.svg)]()  [![Generic badge](https://img.shields.io/badge/Python-Basics-Red.svg)]() [![Generic badge](https://img.shields.io/badge/Git-Black.svg)]()
 #
-## ⚡ I'm currently learning
+## ⚡ I'm currently trying to be proficient in 
  [![Generic badge](https://img.shields.io/badge/NodeJS-Blue.svg)]()  [![Generic badge](https://img.shields.io/badge/MongoDB-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Express-Yellow.svg)]()
